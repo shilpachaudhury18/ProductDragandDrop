@@ -1,0 +1,7 @@
+.tableCellStyle {
+  border: 3px solid #fff;
+  height: 180px;
+  width: 160px;
+  background-color: #000;
+  cursor: pointer;
+}
